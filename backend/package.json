@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "@emotion/react": "^11.7.1",
+    "@emotion/styled": "^11.6.0",
+    "@mui/material": "^5.2.7",
+    "@mui/styled-engine-sc": "^5.1.0",
+    "axios": "^0.24.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "neo4j-driver": "^4.4.1",
+    "react-router": "^6.2.1",
+    "react-router-dom": "^6.2.1",
+    "styled-components": "^5.3.3"
+  },
+  "name": "bi-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
